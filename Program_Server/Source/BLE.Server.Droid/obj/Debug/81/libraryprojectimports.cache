@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\1\jl\support-annotations.jar</Jar>
+    <Jar>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\2\jl\arch-core-common.jar</Jar>
+    <Jar>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\3\jl\arch-lifecycle-common.jar</Jar>
+    <Jar>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\4\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\5\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\6\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\7\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\5\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\8\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\81\lp\8\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\5.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\marta\Desktop\BTTest_client\Program_Server\Source\BLE.Server.Droid\obj\Debug\81\lp\8.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
